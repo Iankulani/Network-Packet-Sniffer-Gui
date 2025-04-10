@@ -13,8 +13,9 @@ How to run
 sudo python Network-Packet-Sniffer-Gui.py
 
 
+![Screenshot_2025-04-09_22_40_35](https://github.com/user-attachments/assets/278ee202-c245-4021-a7ba-a49053c89aa6)
 
-![Screenshot_2025-04-09_22_40_35](https://github.com/user-attachments/assets/142561d4-056a-4bb1-91f6-d49adbb43900)
+
 
 
 
